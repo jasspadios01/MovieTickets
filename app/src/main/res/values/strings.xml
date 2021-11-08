@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Tickets</string>
+    <string name="txtTitle">Movie Pass</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="txtPrompt">Select a Movie Title</string>
+    <string name="txtResults">FIND THE COST</string>
+
+
+    <string-array name="txtGroup">
+        <item>Doctor Strange in the Multiverse of Madness</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Thor: Love and Thunder</item>
+    </string-array>
+</resources>
